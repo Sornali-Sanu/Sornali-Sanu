@@ -3,6 +3,39 @@
 -💡 I love building intuitive, efficient web and mobile apps that solve real-world problems.
 -🔭 Currently exploring open-source projects and expanding my skills in cloud and DevOps.
 
+## 🚀 About Me
+
+- 🔭 I’m currently building projects with .NET & Angular/React  
+- 🌱 Always learning and experimenting with new tech  
+- 💬 Ask me about web development, APIs, or anything tech-related  
+- 📫 Reach me at: sornali.sanu@gmail.com
+
+- ## 🌐 Connect with me
+
+[![Follow](https://img.shields.io/github/followers/Sornali-Sanu?label=Follow&style=social)](https://github.com/Sornali-Sanu)
+[![Email](https://img.shields.io/badge/Email-Send-blue?style=social&logo=gmail)](mailto:sornali.sanu@gmail.com)
+
+## 🛠️ Tech Stack
+
+- 💻 Languages: C#, JavaScript, TypeScript, HTML5, CSS3  
+- 🧰 Frameworks: ASP.NET, Angular, React, Bootstrap  
+- 🛢️ Database: SQL Server, MySQL  
+- ⚙️ Tools: Git, GitHub, VS Code, Visual Studio  
+
+
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sornali-Sanu&show_icons=true&theme=default)
+
+---
+## 🧠 Fun Fact
+
+> “The best way to predict the future is to invent it.” – Alan Kay
+
+
 
 <!---
 Sornali-Sanu/Sornali-Sanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
