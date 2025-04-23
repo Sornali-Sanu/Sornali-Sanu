@@ -13,7 +13,7 @@
 - ## 🌐 Connect with me
 
 [![Follow](https://img.shields.io/github/followers/Sornali-Sanu?label=Follow&style=social)](https://github.com/Sornali-Sanu)
-[![Email](https://img.shields.io/badge/Email-Send-blue?style=social&logo=gmail)](mailto:sornali.sanu@gmail.com)
+
 
 ## 🛠️ Tech Stack
 
