@@ -12,7 +12,7 @@
 
 - ## 🌐 Connect with me
 
-[![Follow](https://img.shields.io/github/followers/Sornali-Sanu?label=Follow&style=social)](https://github.com/Sornali-Sanu)``````
+[![Follow](https://img.shields.io/github/followers/Sornali-Sanu?label=Follow&style=social)](https://github.com/Sornali-Sanu)
 
 [🌐 Visit My Website](https://sornali-akter-f9maby5.gamma.site/)
 
