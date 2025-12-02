@@ -27,11 +27,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sornali-Sanu&show_icons=true&theme=default)
-
----
 ## 🧠 Fun Fact
 
 > “The best way to predict the future is to invent it.” – Alan Kay
